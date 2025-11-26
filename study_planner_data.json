@@ -1,0 +1,120 @@
+{
+  "subjects": {
+    "Compiler construction": {
+      "deadline": "2025-12-01",
+      "difficulty": 5,
+      "score": 50,
+      "past_hours": 50.0,
+      "required_hours": 1.0
+    },
+    "ai ": {
+      "deadline": "2025-12-12",
+      "difficulty": 2,
+      "score": null,
+      "past_hours": null,
+      "required_hours": 2.5
+    },
+    "Research": {
+      "deadline": "2025-12-15",
+      "difficulty": 3,
+      "score": null,
+      "past_hours": null,
+      "required_hours": 4.0
+    },
+    "Emerging Trends": {
+      "deadline": "2025-11-30",
+      "difficulty": 5,
+      "score": null,
+      "past_hours": null,
+      "required_hours": 8.0
+    },
+    "commerce": {
+      "deadline": "2025-12-12",
+      "difficulty": 3,
+      "score": 45,
+      "past_hours": 2.0,
+      "required_hours": 6.0
+    }
+  },
+  "availability": {
+    "Mon": 1.0,
+    "Tue": 2.0,
+    "Wed": 3.0,
+    "Thu": 5.0,
+    "Fri": 2.0,
+    "Sat": 1.0,
+    "Sun": 5.0
+  },
+  "reminders": {
+    "2025-11-21": {
+      "minutes_before": 30,
+      "set_at": "2025-11-21T07:06:16.992395"
+    }
+  },
+  "last_generated_schedule": {
+    "2025-11-21": [
+      {
+        "subject": "Emerging Trends",
+        "hours": 2.0
+      }
+    ],
+    "2025-11-22": [
+      {
+        "subject": "Emerging Trends",
+        "hours": 1.0
+      }
+    ],
+    "2025-11-23": [
+      {
+        "subject": "Emerging Trends",
+        "hours": 5.0
+      }
+    ],
+    "2025-11-24": [
+      {
+        "subject": "Compiler construction",
+        "hours": 1.0
+      }
+    ],
+    "2025-11-25": [
+      {
+        "subject": "ai ",
+        "hours": 2.0
+      }
+    ],
+    "2025-11-26": [
+      {
+        "subject": "ai ",
+        "hours": 0.5
+      },
+      {
+        "subject": "Research",
+        "hours": 2.5
+      }
+    ],
+    "2025-11-27": [
+      {
+        "subject": "Research",
+        "hours": 1.5
+      }
+    ],
+    "2025-11-28": [],
+    "2025-11-29": [],
+    "2025-11-30": [],
+    "2025-12-01": [],
+    "2025-12-02": [],
+    "2025-12-03": [],
+    "2025-12-04": [],
+    "2025-12-05": [],
+    "2025-12-06": [],
+    "2025-12-07": [],
+    "2025-12-08": [],
+    "2025-12-09": [],
+    "2025-12-10": [],
+    "2025-12-11": [],
+    "2025-12-12": [],
+    "2025-12-13": [],
+    "2025-12-14": [],
+    "2025-12-15": []
+  }
+}
